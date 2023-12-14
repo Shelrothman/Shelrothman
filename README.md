@@ -1,16 +1,19 @@
-### Hi there 👋
+# Shel Rothman <a> <img align="right" width=300 height=325 src="https://user-images.githubusercontent.com/62257716/281577478-4d3db4e5-6c74-49e0-97e7-0eca493ebba2.png"> </a>
 
-<!--
-**Shelrothman/Shelrothman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer
 
-Here are some ideas to get you started:
+------
+#### Little about me:
+* Curious, open-minded, creative 🎨
+* Dedicated to continuous learning, growing, and adapting ♾
+* Mega problem-solver with an attention to detail 🧩
+* Deep thinker 🤓 
+* Flexible 🧘
+* Team-player 🤜 🤛
+* Great communication skills 🎙
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[View My working Portfolio](https://shelbyrothman.com/)
+
+
+📫 Get in touch with me by [Email](mailto:shel.programmer@gmail.com) or [LinkedIn](https://www.linkedin.com/in/shelby-anne-bb84131a4/).
