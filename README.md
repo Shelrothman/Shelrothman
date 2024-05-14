@@ -6,6 +6,7 @@
 
 [![Shelrothman Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Shelrothman&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)](https://readme-jokes.vercel.app)
 
+[![Shelrothman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shelrothman)](https://github.com/Shelrothman/github-readme-stats)
 
 _Enjoy a random joke while you're here:_ 😹
 
