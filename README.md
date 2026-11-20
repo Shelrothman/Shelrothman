@@ -1,8 +1,4 @@
-# Shel Rothman 
-#### Software Engineer
-
-<a> <img align="right" width=300 height=325 src="https://user-images.githubusercontent.com/62257716/281577478-4d3db4e5-6c74-49e0-97e7-0eca493ebba2.png"> </a>
-
+![Header](https://github.com/user-attachments/assets/8c9ea7ec-231c-4dbc-ac10-ab511e40b7be)
 
 [![Shelrothman Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Shelrothman&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)](https://readme-jokes.vercel.app)
 
